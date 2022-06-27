@@ -1,29 +1,10 @@
 ---
-theme: gaia
-_class: lead
-paginate: true
-backgroundColor: #fff
-#backgroundImage: url('https://wallpaperaccess.com/full/216866.jpg')
 marp: true
-style: |
-    img[alt~="center"] {
-      display: block;
-      margin: 0 auto;
-    }
-    section {
-        background-color: #ccc;
-        font-size: 20px
-    }
-    h1 {
-        font-size: 50px;
-    }
-    h2 {
-        font-size: 30px;
-    }
-    pre {
-        font-size: 1.5rem;
-        text-align: center;
-    }
+title: Marp CLI example
+description: Hosting Marp slide deck on the web
+theme: uncover
+paginate: true
+_paginate: false
 ---
 
 # **Developing a Precision Medicine framework for Indigenous Australians**
