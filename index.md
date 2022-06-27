@@ -2,7 +2,7 @@
 theme: default
 _class: lead
 paginate: true
-backgroundColor: #fff
+backgroundColor: #fffffa
 #backgroundImage: url('https://wallpaperaccess.com/full/216866.jpg')
 marp: true
 style: |
@@ -71,21 +71,30 @@ Australian National University
 _"Our analysis revealed ~296Mb in ~125k distinct contigs present in the populations of African descent, 
 demonstrating that the African pan-genome contains **~10% more DNA than the current human reference genome.**"_
 
-Sherman et al. (2019). "Assembly of a pan-genome from deep sequencing  of 910 humans of African descent" _Nature Genetics_
+~~ Sherman et al. (2019). "Assembly of a pan-genome from deep sequencing  of 910 humans of African descent" _Nature Genetics_
 
 ---
 
 # Implications for Epigenomics
 
+![center](./figures/missing-diversity-epi.png)
+
 ---
 
-# What we know and don't know about the Aboriginal Australian genome
+# What we know that we don't know about the Aboriginal Australian genome
 
+Easteal _et al_ 2020 _The American Journal of Human Genetics_
 
+_Approximately 25% of all DNA variants in the genome of an Aboriginal person, disregarding variants inherited from non- Aboriginal ancestors, are unknown in people from outside of Australia._
+...
+_Of these Aboriginal-specific variants, 40% are likely to be found in a single region or community._ 
+...
+_Overall, ... genomic differences among Aboriginal communities across Australia are as great as those between populations across Europe and Asia combined. Thus, for example, **using information about people from the Northern Territory as a basis for treating people in South Western Australia would be equivalent to treating people with British ancestry on the basis of information about people from Cambodia**._
 
 ---
 
 # Planned work with our group
+
 
 ---
 
@@ -100,7 +109,10 @@ Sherman et al. (2019). "Assembly of a pan-genome from deep sequencing  of 910 hu
 
 # We're recruiting
 
-
+- We are committed to developing a diverse team of Bioinformaticians
+    - Indigenous Australians
+    - Female Bioinformaticians
+    - 
 
 ---
 
