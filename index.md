@@ -1,6 +1,5 @@
 ---
 theme: default
-_class: lead
 paginate: true
 backgroundColor: #fffffa
 #backgroundImage: url('https://wallpaperaccess.com/full/216866.jpg')
@@ -31,6 +30,11 @@ style: |
     pre {
         font-size: 1.5rem;
         text-align: center;
+    }
+    .columns {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 1rem;
     }
     
 ---
@@ -67,22 +71,38 @@ Australian National University
 
 ---
 
-# The growing healthcare gap in Australia
+# The healthcare gap in Australia
 
-- Gap between healthcare for Aboriginal and non-aboriginal Australians
-
-![w:90% bg right](https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12939-016-0450-5/MediaObjects/12939_2016_450_Fig2_HTML.gif?as=webp)
-
-<p style="text-align: center;">Centered text</p>
-
-*The caption for my image*
+- The growing inequality of healthcare for Aboriginal Australians
+    - Infant mortality is **twice the rate of non-Indigenous Australians**.
+    - Life expectancy at birth was 71.6 years for Indigenous males **(8.6 years less than non-Indigenous males)** and 75.6 years for Indigenous females **(7.8 years less than non-Indigenous females)**.
 
 ---
 
-# Precision Medicine for all
+![w:28cm center](./figures/diabetes-mortality.png)
 
+---
 
+# Future developments in healthcare
+
+- Precision Medicine holds promise to improve treatments for Indigenous Australians
+    - Polygenic risk scores, personalised treatments, precise diagnostics etc
 - Some treatments are ineffective for diverse communities
+    - Misinterpretation of variants, treatment efficiveness
+    - e.g. Chemotherapy drug `5-fluorouracil` on African Americans
+
+- **Why?**
+
+<!-- footer: McCollum et al. (2002). _Journal of the National Cancer Institute_ -->
+
+---
+
+![width:15cm ](https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12939-016-0450-5/MediaObjects/12939_2016_450_Fig2_HTML.gif)
+
+![width:17cm bg right](./figures/feelings.png)
+
+<!-- footer: "Davy et al. (2016). _International Journal for Equity in Health_" -->
+
 ---
 
 # <!--fit--> The human reference genome does not reflect human diversity
@@ -91,25 +111,14 @@ Australian National University
 _"Our analysis revealed ~296Mb in ~125k distinct contigs present in the populations of African descent, 
 demonstrating that the African pan-genome contains **~10% more DNA than the current human reference genome.**"_
 
-~~ Sherman et al. (2019). "Assembly of a pan-genome from deep sequencing  of 910 humans of African descent" _Nature Genetics_
+<!-- footer: Sherman et al. (2019). _Nature Genetics_ -->
+
 
 ---
 
-# Implications on Precision Medicine
-
-![center](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-022-01058-3/MediaObjects/41588_2022_1058_Fig4_HTML.png)
-
----
-
-# Implications for Epigenomics
-
-![center](./figures/missing-diversity-epi.png)
-
----
 
 # What we know that we don't know about the Aboriginal Australian genome
 
-Easteal _et al_ 2020 _The American Journal of Human Genetics_
 
 _Approximately 25% of all DNA variants in the genome of an Aboriginal person, disregarding variants inherited from non- Aboriginal ancestors, are unknown in people from outside of Australia._
 ...
@@ -117,19 +126,82 @@ _Of these Aboriginal-specific variants, 40% are likely to be found in a single r
 ...
 _Overall, ... genomic differences among Aboriginal communities across Australia are as great as those between populations across Europe and Asia combined. Thus, for example, **using information about people from the Northern Territory as a basis for treating people in South Western Australia would be equivalent to treating people with British ancestry on the basis of information about people from Cambodia**._
 
+
+<!-- footer: Easteal et al. (2020). _The American Journal of Human Genetics_ -->
 ---
 
-# Planned work with our group
+# Implications on Precision Medicine
+
+![w:25cm h:12m center](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-022-01058-3/MediaObjects/41588_2022_1058_Fig4_HTML.png)
+
+<!-- footer: "Mahajan et al. (2022). _Nature Genetics_" -->
+
+---
+
+# Diversity in Epigenomics
+
+![w:27cm h:13cm center](./figures/missing-diversity-epi.png)
+
+<!-- footer: Breeze et al. (2022). _Nature Genetics_ -->
+
+---
+
+# What are Black Ochre Data Labs doing about it?
+
+1. Developing a national framework for Indigenous Genomics
+    - Collaborating with partners across Australia
+    - Led by Alex Brown and Louise Lyons
+2. Establishing reference genome resources to quanitfy genomic diversity of Indigenous Australians
+    - Collaborating with the National Centre for Indigenous Genomics, ANU
+    - Led by Bastien Llamas
+3. Investigating the multi-omics structure of Indigenous South Australians within the PROPHECY cohort and develop Epigenetic biomarkers for disease prevention 
+
+---
+
+# What's at stake?
+
+![w:25cm center](./figures/pos-slide-trans.png)
+
+<!-- footer: "" -->
+
+---
+
+# What's at stake?
+
+![w:25cm center](./figures/pos-slide-etcher.png)
 
 
 ---
 
 # Acknowledgements
 
----
+<div class="columns">
+<div>
 
-# Acknowledgements
+### Black Ochre Data Labs
+- Alex Brown
+- Bastien Llamas
+- Sam Buckberry
+- Holly Martin
+- Kaashifah Bruce
+- Louise Lyons
+- Rebecca Simpson
+- Sam Godwin
+- Yassine Souilmi
 
+</div>
+<div>
+
+### SAHMRI
+- Natasha Howard
+- Anelle Du Preez
+
+### NCIG
+- Azure Hermes
+- Hardip Patel
+
+</div>
+</div>
 
 ---
 
