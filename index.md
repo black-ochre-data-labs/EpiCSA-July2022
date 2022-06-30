@@ -59,15 +59,6 @@ Australian National University
     - Developing Precision Health approaches for Aboriginal and Torres Strait Islanders
     - Complex diseases that impact Indigenous Australians, including Type 2 Diabetes, Cardiovascular Disease, Chronic/Diabetic Kidney Disease
 
----
-
-![w:6cm bg right](https://www.telethonkids.org.au/globalassets/media/images/type-of-image/logos/tki-logo-large.jpg)
-
-![w:9cm bg right](https://brandonbiocatalyst.com/wp-content/uploads/2019/07/33.JCSMR-lock-up-e1562660623739.jpg)
-
-![w:40cm right](https://staff.flinders.edu.au/research/funding/mrff/_jcr_content/content/section_copy/par_1/image_general.coreimg.png/1555562513087/mrff-logo.png)
-
-![w:12cm](https://medicine.unimelb.edu.au/__data/assets/image/0004/3391825/NHMRC-Building-a-healthy-Australia.jpg)
 
 ---
 
@@ -156,20 +147,43 @@ _Overall, ... genomic differences among Aboriginal communities across Australia 
     - Led by Bastien Llamas
 3. Investigating the multi-omics structure of Indigenous South Australians within the PROPHECY cohort and develop Epigenetic biomarkers for disease prevention 
 
----
-
-# What's at stake?
-
-![w:25cm center](./figures/pos-slide-trans.png)
-
 <!-- footer: "" -->
 
 ---
 
-# What's at stake?
+## What's at stake? _Intergenerational Disease Risk_
+
+![w:25cm center](./figures/pos-slide-trans.png)
+
+
+---
+
+## What's at stake for Indigenous people? 
 
 ![w:25cm center](./figures/pos-slide-etcher.png)
 
+---
+
+## What's at stake for Indigenous people? 
+
+- T2D and transgenerational trauma are common across most Indigenous communities around the world
+    - $14.9M New Frontiers Grant working with Mi'kmaw communities in Newfoundland 
+
+![w:10cm](https://grenfell.mun.ca/Banner%20Images/_115-22001-sustain-solut-1080x1080-insta.jpg) ![w:6cm](https://grenfell.mun.ca/campus-services/PublishingImages/Lists/Notices%20and%20Alerts/AllItems/raymond.jpeg) ![w:8.5cm](https://grenfell.mun.ca/campus-services/PublishingImages/Lists/Notices%20and%20Alerts/AllItems/211102-1027-kelly-hawboldt-3108.jpg)
+
+<!-- footer: "Professor Raymond Thomas & Kelly Hawbolt (Grenfell University, Corner Brook, Newfoundland) - co-lead investigators" -->
+
+---
+
+# Epigenetics & Intergenerational Disease Risk
+
+- Can we disentangle transgenerational components and link them to disease risk?
+- What role does intergenerational trauma have on the epigenetic clock?
+- Can we develop Precision Healthcare programs that:
+    - integrate unique genomic/epigenomic profiles of Indigenous people
+    - help people reconnect with their land
+
+<!-- footer: "" -->
 
 ---
 
@@ -188,6 +202,7 @@ _Overall, ... genomic differences among Aboriginal communities across Australia 
 - Rebecca Simpson
 - Sam Godwin
 - Yassine Souilmi
+- Stephen Pederson
 
 </div>
 <div>
@@ -200,17 +215,13 @@ _Overall, ... genomic differences among Aboriginal communities across Australia 
 - Azure Hermes
 - Hardip Patel
 
+![w:4cm h:3cm](https://www.telethonkids.org.au/globalassets/media/images/type-of-image/logos/tki-logo-large.jpg) ![w:4cm h:3cm](https://brandonbiocatalyst.com/wp-content/uploads/2019/07/33.JCSMR-lock-up-e1562660623739.jpg) ![w:5cm h:4cm](https://www.prostatehealth.org.au/wp-content/uploads/2017/03/LogoSAHMRI1.jpg)
+
 </div>
 </div>
 
 ---
 
-# We're recruiting
 
-- We are committed to developing a diverse team of Bioinformaticians
-    - Indigenous Australians
-    - Female Bioinformaticians
-    - 
-
----
+![bg center](./figures/anat-spectra.png)
 
