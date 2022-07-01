@@ -262,6 +262,8 @@ _Overall, ... genomic differences among Aboriginal communities across Australia 
 </div>
 </div>
 
+<!-- footer: "" -->
+
 ---
 
 
