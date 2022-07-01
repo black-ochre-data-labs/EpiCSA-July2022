@@ -91,7 +91,7 @@ Australian National University
 
 # Transgenerational Trauma
 
-![w:25cm center](./figures/pos-slide-etcher.png)
+![w:22cm center](./figures/pos-slide-etcher.png)
 
 
 ---
@@ -147,7 +147,10 @@ _Overall, ... genomic differences among Aboriginal communities across Australia 
 
 # Implications on Precision Medicine
 
-![w:25cm h:12m center](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-022-01058-3/MediaObjects/41588_2022_1058_Fig4_HTML.png)
+<br>
+<br>
+
+![w:20cm center](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-022-01058-3/MediaObjects/41588_2022_1058_Fig4_HTML.png)
 
 <!-- footer: "Mahajan et al. (2022). _Nature Genetics_" -->
 
@@ -155,7 +158,10 @@ _Overall, ... genomic differences among Aboriginal communities across Australia 
 
 # Diversity in Epigenomics
 
-![w:27cm h:13cm center](./figures/missing-diversity-epi.png)
+<br>
+<br>
+
+![w:20cm center](./figures/missing-diversity-epi.png)
 
 <!-- footer: Breeze et al. (2022). _Nature Genetics_ -->
 
@@ -166,14 +172,14 @@ _Overall, ... genomic differences among Aboriginal communities across Australia 
 
 - Annotation of genetic work is done with available _European-ancestry biased_ reference data:
     - Epigenomics Roadmap, ENCODE, FANTOM5, Blueprint etc
-- DNA methylation is strongly influenced by underlying genetic variation (Hawe et al. 2022 and many others)
+- DNA methylation is strongly influenced by underlying genetic variation 
+(Hawe et al. 2022 and many others)
 
 <!-- footer: Hawe et al. (2022). _Nature Genetics_ -->
 
 ---
 
-
-![](./figures/3Dfaacts.png)
+![w:25cm center](./figures/3Dfaacts.png)
 
 <!-- footer: Liu et al. (2022). _Epigenetics & Chromatin_ -->
 
@@ -193,10 +199,7 @@ _Overall, ... genomic differences among Aboriginal communities across Australia 
 
 ---
 
-
-
-![bg center](./figures/PROPHECY_outline.png)
-
+![w:25cm center](./figures/PROPHECY_outline.png)
 
 ---
 
