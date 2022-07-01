@@ -72,9 +72,41 @@ Australian National University
 
 ![w:28cm center](./figures/diabetes-mortality.png)
 
+
 ---
 
-# Future developments in healthcare
+![width:15cm ](https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12939-016-0450-5/MediaObjects/12939_2016_450_Fig2_HTML.gif)
+
+![width:17cm bg right](./figures/feelings.png)
+
+<!-- footer: "Davy et al. (2016). _International Journal for Equity in Health_" -->
+
+---
+
+![w:30cm bg center](https://c5.staticflickr.com/8/7755/26798396924_941bd031d1_z.jpg)
+
+<!-- footer: "" -->
+
+---
+
+# Transgenerational Trauma
+
+![w:25cm center](./figures/pos-slide-etcher.png)
+
+
+---
+
+# Epigenetics & Intergenerational Disease Risk
+
+- Can we disentangle transgenerational components and link them to disease risk?
+- What role does intergenerational trauma have on the epigenetic clock?
+- Can we develop Precision Healthcare programs that:
+    - integrate unique genomic/epigenomic profiles of Indigenous people
+    - help people reconnect with their land
+
+---
+
+# Precision Health Applications for Indigenous Communities
 
 - Precision Medicine holds promise to improve treatments for Indigenous Australians
     - Polygenic risk scores, personalised treatments, precise diagnostics etc
@@ -85,14 +117,6 @@ Australian National University
 - **Why?**
 
 <!-- footer: McCollum et al. (2002). _Journal of the National Cancer Institute_ -->
-
----
-
-![width:15cm ](https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12939-016-0450-5/MediaObjects/12939_2016_450_Fig2_HTML.gif)
-
-![width:17cm bg right](./figures/feelings.png)
-
-<!-- footer: "Davy et al. (2016). _International Journal for Equity in Health_" -->
 
 ---
 
@@ -137,6 +161,24 @@ _Overall, ... genomic differences among Aboriginal communities across Australia 
 
 ---
 
+# Implications for Functional Genomics
+
+
+- Annotation of genetic work is done with available _European-ancestry biased_ reference data:
+    - Epigenomics Roadmap, ENCODE, FANTOM5, Blueprint etc
+- DNA methylation is strongly influenced by underlying genetic variation (Hawe et al. 2022 and many others)
+
+<!-- footer: Hawe et al. (2022). _Nature Genetics_ -->
+
+---
+
+
+![](./figures/3Dfaacts.png)
+
+<!-- footer: Liu et al. (2022). _Epigenetics & Chromatin_ -->
+
+---
+
 # What are Black Ochre Data Labs doing about it?
 
 1. Developing a national framework for Indigenous Genomics
@@ -151,20 +193,29 @@ _Overall, ... genomic differences among Aboriginal communities across Australia 
 
 ---
 
-## What's at stake? _Intergenerational Disease Risk_
-
-![w:25cm center](./figures/pos-slide-trans.png)
 
 
----
+![bg center](./figures/PROPHECY_outline.png)
 
-## What's at stake for Indigenous people? 
-
-![w:25cm center](./figures/pos-slide-etcher.png)
 
 ---
 
-## What's at stake for Indigenous people? 
+# Precision Medicine
+
+- Using PROPHECY multiomics datasets to develop biomarkers for T2D, Chronic Kidney Disease, CVD and 'Cancer of Unknown Primary'
+    - Multiple MRFF grants
+    - Using Machine Learning, clinical and socio-economic information and leveraging non-Indigenous datasets for validation
+- Particular focus on DNA methylation
+- Investigate the impact of unique genotypes on DNA methylation and gene expression variation
+
+<br>
+<br>
+
+![w:20cm center](./figures/biomarkers.png)
+
+---
+
+# International efforts
 
 - T2D and transgenerational trauma are common across most Indigenous communities around the world
     - $14.9M New Frontiers Grant working with Mi'kmaw communities in Newfoundland 
@@ -172,18 +223,6 @@ _Overall, ... genomic differences among Aboriginal communities across Australia 
 ![w:10cm](https://grenfell.mun.ca/Banner%20Images/_115-22001-sustain-solut-1080x1080-insta.jpg) ![w:6cm](https://grenfell.mun.ca/campus-services/PublishingImages/Lists/Notices%20and%20Alerts/AllItems/raymond.jpeg) ![w:8.5cm](https://grenfell.mun.ca/campus-services/PublishingImages/Lists/Notices%20and%20Alerts/AllItems/211102-1027-kelly-hawboldt-3108.jpg)
 
 <!-- footer: "Professor Raymond Thomas & Kelly Hawbolt (Grenfell University, Corner Brook, Newfoundland) - co-lead investigators" -->
-
----
-
-# Epigenetics & Intergenerational Disease Risk
-
-- Can we disentangle transgenerational components and link them to disease risk?
-- What role does intergenerational trauma have on the epigenetic clock?
-- Can we develop Precision Healthcare programs that:
-    - integrate unique genomic/epigenomic profiles of Indigenous people
-    - help people reconnect with their land
-
-<!-- footer: "" -->
 
 ---
 
