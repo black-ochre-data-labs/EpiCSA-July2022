@@ -156,16 +156,6 @@ _Overall, ... genomic differences among Aboriginal communities across Australia 
 
 ---
 
-# Diversity in Epigenomics
-
-<br>
-<br>
-
-![w:20cm center](./figures/missing-diversity-epi.png)
-
-<!-- footer: Breeze et al. (2022). _Nature Genetics_ -->
-
----
 
 # Implications for Functional Genomics
 
@@ -176,6 +166,17 @@ _Overall, ... genomic differences among Aboriginal communities across Australia 
 (Hawe et al. 2022 and many others)
 
 <!-- footer: Hawe et al. (2022). _Nature Genetics_ -->
+
+---
+
+# Diversity in Epigenomics
+
+<br>
+<br>
+
+![w:20cm center](./figures/missing-diversity-epi.png)
+
+<!-- footer: Breeze et al. (2022). _Nature Genetics_ -->
 
 ---
 
